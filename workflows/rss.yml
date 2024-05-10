@@ -1,6 +1,6 @@
 on:
   rss:
-    url: https://hnrss.org/newest?points=300&count=3
+    url: https://phila.legistar.com/Feed.ashx?M=L&ID=21582854&GUID=f010ab8a-d2ab-4b60-8ec4-c0d3036d37e1&Title=City+of+Philadelphia+-+Legislation
 jobs:
   print:
     name: Print
